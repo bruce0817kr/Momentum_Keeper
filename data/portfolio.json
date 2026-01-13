@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-01-13",
+  "owner": "이도훈",
+  "stocks": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "buy_price": 70000,
+      "shares": 10,
+      "buy_date": "2025-11-15",
+      "notes": "반도체 업황 개선 기대"
+    },
+    {
+      "ticker": "105560",
+      "name": "KB금융",
+      "buy_price": 65000,
+      "shares": 5,
+      "buy_date": "2025-12-01",
+      "notes": "금리 인하 사이클 진입 시 수혜"
+    },
+    {
+      "ticker": "086520",
+      "name": "에코프로",
+      "buy_price": 85000,
+      "shares": 3,
+      "buy_date": "2025-10-20",
+      "notes": "2차전지 업황 반등 기대"
+    }
+  ],
+  "settings": {
+    "stop_loss_percent": -10.0,
+    "max_holdings": 5,
+    "analysis_period_days": 60,
+    "investor_flow_days": 3
+  }
+}
